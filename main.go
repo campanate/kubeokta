@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"os"
-	"kubeokta/cli"
+	"github.com/campanate/kubeokta/cli"
 
 )
 

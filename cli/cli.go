@@ -3,7 +3,7 @@ package cli
 import (
 	"fmt"
 	"bytes"
-	"kubeokta/kubeconfig"
+	"github.com/campanate/kubeokta/kubeconfig"
 	"github.com/jessevdk/go-flags"
 	"golang.org/x/crypto/ssh/terminal"
 	"k8s.io/client-go/tools/clientcmd"
